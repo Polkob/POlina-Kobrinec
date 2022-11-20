@@ -1,0 +1,13 @@
+﻿  laba6.cpp
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(173,35): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(130,35): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(115): message : во время компиляции функции-члена класс шаблон "void Array<int>::Compare(void)"
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(190): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Array<int>::Compare(void)"
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(163): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<int>"
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(109,35): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(91): message : во время компиляции функции-члена класс шаблон "void Array<int>::Search(void)"
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(186): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Array<int>::Search(void)"
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(84,35): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(75): message : во время компиляции функции-члена класс шаблон "void Array<int>::Delete(void)"
+C:\Users\polya\source\repos\laba6_2\laba6.cpp(182): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Array<int>::Delete(void)"
+  laba6.vcxproj -> C:\Users\polya\source\repos\laba6_2\Debug\laba6.exe
