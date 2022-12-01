@@ -1,0 +1,8 @@
+﻿  laba7_2(9).cpp
+C:\Users\polya\source\repos\laba7_2(9)\laba7_2(9).cpp(130,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\polya\source\repos\laba7_2(9)\laba7_2(9).cpp(200,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\polya\source\repos\laba7_2(9)\laba7_2(9).cpp(275,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\polya\source\repos\laba7_2(9)\laba7_2(9).cpp(348,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\polya\source\repos\laba7_2(9)\laba7_2(9).cpp(432,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\polya\source\repos\laba7_2(9)\laba7_2(9).cpp(451,28): warning C4018: >: несоответствие типов со знаком и без знака
+  laba7_2(9).vcxproj -> C:\Users\polya\source\repos\laba7_2(9)\Debug\laba7_2(9).exe
